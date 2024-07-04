@@ -23,14 +23,3 @@ To get started with Groot, follow these steps:
 6. Generate documentation for your project using the documentation generation tool.
 7. Review and provide feedback on code changes using the code review module.
 
-## Documentation
-
-For detailed documentation on how to use Groot, please refer to the [official documentation](https://groot-docs.com).
-
-## Contributing
-
-We welcome contributions from the community. If you would like to contribute to Groot, please follow our [contribution guidelines](https://groot-docs.com/contributing).
-
-## License
-
-Groot is released under the [MIT License](https://opensource.org/licenses/MIT).
